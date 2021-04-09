@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-ball/static/css/main.41ee5aa7.chunk.css",
+    "main.js": "/memory-ball/static/js/main.472297bd.chunk.js",
+    "main.js.map": "/memory-ball/static/js/main.472297bd.chunk.js.map",
+    "runtime-main.js": "/memory-ball/static/js/runtime-main.e975e449.js",
+    "runtime-main.js.map": "/memory-ball/static/js/runtime-main.e975e449.js.map",
+    "static/js/2.2747ca6b.chunk.js": "/memory-ball/static/js/2.2747ca6b.chunk.js",
+    "static/js/2.2747ca6b.chunk.js.map": "/memory-ball/static/js/2.2747ca6b.chunk.js.map",
+    "index.html": "/memory-ball/index.html",
+    "static/css/main.41ee5aa7.chunk.css.map": "/memory-ball/static/css/main.41ee5aa7.chunk.css.map",
+    "static/js/2.2747ca6b.chunk.js.LICENSE.txt": "/memory-ball/static/js/2.2747ca6b.chunk.js.LICENSE.txt",
+    "static/media/AC Milan.png": "/memory-ball/static/media/AC Milan.d433e7a9.png",
+    "static/media/Arsenal.png": "/memory-ball/static/media/Arsenal.4b00388e.png",
+    "static/media/Atletico Madrid.png": "/memory-ball/static/media/Atletico Madrid.dc03a74d.png",
+    "static/media/Bayern Munich.png": "/memory-ball/static/media/Bayern Munich.62b45dff.png",
+    "static/media/Chelsea.png": "/memory-ball/static/media/Chelsea.8489cbed.png",
+    "static/media/FC Barcelona.png": "/memory-ball/static/media/FC Barcelona.769ceccd.png",
+    "static/media/Juventus.png": "/memory-ball/static/media/Juventus.a2e7ebcc.png",
+    "static/media/Liverpool.png": "/memory-ball/static/media/Liverpool.569b553b.png",
+    "static/media/Loader.7bfe3462.png": "/memory-ball/static/media/Loader.7bfe3462.png",
+    "static/media/Manchester City.png": "/memory-ball/static/media/Manchester City.eb2db2ed.png",
+    "static/media/Manchester United.png": "/memory-ball/static/media/Manchester United.5f327d93.png",
+    "static/media/PSG.png": "/memory-ball/static/media/PSG.50361638.png",
+    "static/media/Real Madrid.png": "/memory-ball/static/media/Real Madrid.6b46e1b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e975e449.js",
+    "static/js/2.2747ca6b.chunk.js",
+    "static/css/main.41ee5aa7.chunk.css",
+    "static/js/main.472297bd.chunk.js"
+  ]
+}
