@@ -1,6 +1,6 @@
-# Project Name
+# Memory Ball
 
-> Here goes your awesome project description!
+> A Football version of the memory game where you have to click all the images to win without clicking the same image twice.
 
 ## Table of contents
 
@@ -14,32 +14,34 @@
 
 ## Preview Link
 
-[Name](Link)
+[Memory Ball](https://ajinkyap22.github.io/memory-ball/)
 
 ## Technologies
 
 - HTML5
 - CSS3
-- JavaScript
+- React
 
 ## Setup
 
-Just run the index.html file & you're good to go.
+* You will need to install Node.js
+* Go to the project directory in the terminal & install the required dependencies by using: npm install
+* Build the distribution files using: npm run build
+* Type the command : npm run start
 
 ## Features
 
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- The cards are shuffle after each clicked.
+- Responsive i.e. both mobile & desktop friendly.
 
 ## Status
 
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _finished_
 
 ## Inspiration
 
-Add here credits. Project inspired by..., based on...
+This was a project in The Odin Project curriculum.
 
 ## Contact
 
-feel free to contact me at my mail - palaskarajinkya22@gmail.com
+Feel free to contact me at my mail - palaskarajinkya22@gmail.com
